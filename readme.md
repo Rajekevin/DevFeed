@@ -6,6 +6,15 @@
 
 **DevFeed** est une extension de navigateur élégante qui transforme votre nouvel onglet en un hub d'actualités techniques. Suivez tous vos flux RSS préférés dans une interface moderne, rapide et entièrement personnalisable.
 
+
+## 📸 Aperçu
+
+### Mode Sombre
+![Mode sombre](screenshots/dev-feed-black.png)
+
+### Mode Clair
+![Mode clair](screenshots/dev-feed-white.png)
+
 ---
 
 ## ✨ Fonctionnalités
